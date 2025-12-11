@@ -1,0 +1,739 @@
+{
+  "idn": "4702186560",
+  "name": "Катя Койчева Икономова",
+  "currency": "BGN",
+  "groups": [
+    {
+      "partida": "3409127070002",
+      "dsName": "Test RE",
+      "description": "Адрес: ул. Роза № 5",
+      "dsCode": 1239,
+      "categories": [
+        {
+          "debtKindId": 2,
+          "debtKindName": "Данък върху недвижимите имоти",
+          "totalAmount": {
+            "amount": 253.64999999999998,
+            "currency": "BGN"
+          }
+        },
+        {
+          "debtKindId": 5,
+          "debtKindName": "Такса битови отпадъци",
+          "totalAmount": {
+            "amount": 55.55,
+            "currency": "BGN"
+          }
+        }
+      ],
+      "debtsByYear": [
+        {
+          "budgetYear": 2023,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10637,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070002",
+              "debtKindId": 2,
+              "payOrder": 3,
+              "budgetYear": 2023,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Харалан Попов № 6",
+              "residual": 74.5,
+              "interest": 7.45,
+              "dueDate": "2023-12-31",
+              "amountDue": {
+                "totalAmount": 81.95,
+                "amount": 74.5,
+                "interest": 7.45,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2024,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10637,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070002",
+              "debtKindId": 2,
+              "payOrder": 2,
+              "budgetYear": 2024,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Харалан Попов № 6",
+              "residual": 45.5,
+              "interest": 15.1,
+              "dueDate": "2024-12-31",
+              "amountDue": {
+                "totalAmount": 60.6,
+                "amount": 45.5,
+                "interest": 15.1,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2025,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10135,
+              "dsCode": 1239,
+              "dsName": "Test RE",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070002",
+              "debtKindId": 2,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 50.5,
+              "interest": 5.05,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 55.55,
+                "amount": 50.5,
+                "interest": 5.05,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10135,
+              "dsCode": 1239,
+              "dsName": "Test RE",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070002",
+              "debtKindId": 5,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Такса битови отпадъци",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 50.5,
+              "interest": 5.05,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 55.55,
+                "amount": 50.5,
+                "interest": 5.05,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10135,
+              "dsCode": 1239,
+              "dsName": "Test RE",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070002",
+              "debtKindId": 2,
+              "payOrder": 2,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 50.5,
+              "interest": 5.05,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 55.55,
+                "amount": 50.5,
+                "interest": 5.05,
+                "currency": "BGN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partida": "3409127070001",
+      "dsName": "СТОЛИЧНА",
+      "description": "Адрес: ул. Роза № 5",
+      "dsCode": 1239,
+      "categories": [
+        {
+          "debtKindId": 2,
+          "debtKindName": "Данък върху недвижимите имоти",
+          "totalAmount": {
+            "amount": 243.45000000000002,
+            "currency": "BGN"
+          }
+        },
+        {
+          "debtKindId": 5,
+          "debtKindName": "Такса битови отпадъци",
+          "totalAmount": {
+            "amount": 46.88999999999999,
+            "currency": "BGN"
+          }
+        }
+      ],
+      "debtsByYear": [
+        {
+          "budgetYear": 2022,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10140,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 5,
+              "payOrder": 4,
+              "budgetYear": 2022,
+              "instNumber": 1,
+              "debtKindName": "Такса битови отпадъци",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 9.15,
+              "interest": 3.03,
+              "dueDate": "2022-12-31",
+              "amountDue": {
+                "totalAmount": 12.18,
+                "amount": 9.15,
+                "interest": 3.03,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10141,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 2,
+              "payOrder": 4,
+              "budgetYear": 2022,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 48.5,
+              "interest": 15.15,
+              "dueDate": "2022-12-31",
+              "amountDue": {
+                "totalAmount": 63.65,
+                "amount": 48.5,
+                "interest": 15.15,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2023,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10139,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 2,
+              "payOrder": 3,
+              "budgetYear": 2023,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 48.5,
+              "interest": 15.15,
+              "dueDate": "2023-12-31",
+              "amountDue": {
+                "totalAmount": 63.65,
+                "amount": 48.5,
+                "interest": 15.15,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10738,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 5,
+              "payOrder": 3,
+              "budgetYear": 2023,
+              "instNumber": 1,
+              "debtKindName": "Такса битови отпадъци",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 9.78,
+              "interest": 2.02,
+              "dueDate": "2023-12-31",
+              "amountDue": {
+                "totalAmount": 11.799999999999999,
+                "amount": 9.78,
+                "interest": 2.02,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2024,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10137,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 2,
+              "payOrder": 2,
+              "budgetYear": 2024,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 50.5,
+              "interest": 10.1,
+              "dueDate": "2024-12-31",
+              "amountDue": {
+                "totalAmount": 60.6,
+                "amount": 50.5,
+                "interest": 10.1,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10438,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 5,
+              "payOrder": 2,
+              "budgetYear": 2024,
+              "instNumber": 1,
+              "debtKindName": "Такса битови отпадъци",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 9.78,
+              "interest": 2.02,
+              "dueDate": "2024-12-31",
+              "amountDue": {
+                "totalAmount": 11.799999999999999,
+                "amount": 9.78,
+                "interest": 2.02,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2025,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10135,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 2,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък върху недвижимите имоти",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 50.5,
+              "interest": 5.05,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 55.55,
+                "amount": 50.5,
+                "interest": 5.05,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10136,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "3409127070001",
+              "debtKindId": 5,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Такса битови отпадъци",
+              "description": "Адрес: ул. Роза № 5",
+              "residual": 10.1,
+              "interest": 1.01,
+              "dueDate": "2024-12-31",
+              "amountDue": {
+                "totalAmount": 11.11,
+                "amount": 10.1,
+                "interest": 1.01,
+                "currency": "BGN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partida": "СВ6885ХН",
+      "dsName": "СТОЛИЧНА",
+      "description": "Данък за МПС с рег. номер СВ6885ХН",
+      "dsCode": 1239,
+      "categories": [
+        {
+          "debtKindId": 3,
+          "debtKindName": "Данък МПС",
+          "totalAmount": {
+            "amount": 1319.31,
+            "currency": "BGN"
+          }
+        }
+      ],
+      "debtsByYear": [
+        {
+          "budgetYear": 2025,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10152,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "СВ6885ХН",
+              "debtKindId": 3,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък МПС",
+              "description": "Данък за МПС с рег. номер СВ6885ХН",
+              "residual": 400.78,
+              "interest": 38.99,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 439.77,
+                "amount": 400.78,
+                "interest": 38.99,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10152,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "СВ6885ХН",
+              "debtKindId": 3,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 3,
+              "debtKindName": "Данък МПС",
+              "description": "test",
+              "residual": 400.78,
+              "interest": 38.99,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 439.77,
+                "amount": 400.78,
+                "interest": 38.99,
+                "currency": "BGN"
+              }
+            },
+            {
+              "debtId": 10152,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "СВ6885ХН",
+              "debtKindId": 3,
+              "payOrder": 2,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък МПС",
+              "description": "test",
+              "residual": 400.78,
+              "interest": 38.99,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 439.77,
+                "amount": 400.78,
+                "interest": 38.99,
+                "currency": "BGN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partida": "СВ4785ХН",
+      "dsName": "СТОЛИЧНА",
+      "description": "Данък за МПС с рег. номер СВ4785ХН",
+      "dsCode": 1239,
+      "categories": [
+        {
+          "debtKindId": 3,
+          "debtKindName": "Данък МПС",
+          "totalAmount": {
+            "amount": 1455.08,
+            "currency": "BGN"
+          }
+        }
+      ],
+      "debtsByYear": [
+        {
+          "budgetYear": 2022,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10143,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "СВ4785ХН",
+              "debtKindId": 3,
+              "payOrder": 4,
+              "budgetYear": 2022,
+              "instNumber": 1,
+              "debtKindName": "Данък МПС",
+              "description": "Данък за МПС с рег. номер СВ4785ХН",
+              "residual": 350.78,
+              "interest": 35.99,
+              "dueDate": "2022-12-31",
+              "amountDue": {
+                "totalAmount": 386.77,
+                "amount": 350.78,
+                "interest": 35.99,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2023,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10184,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "СВ4785ХН",
+              "debtKindId": 3,
+              "payOrder": 3,
+              "budgetYear": 2023,
+              "instNumber": 1,
+              "debtKindName": "Данък МПС",
+              "description": "Данък за МПС с рег. номер СВ4785ХН",
+              "residual": 350.78,
+              "interest": 35.99,
+              "dueDate": "2023-12-31",
+              "amountDue": {
+                "totalAmount": 386.77,
+                "amount": 350.78,
+                "interest": 35.99,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2024,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10197,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "СВ4785ХН",
+              "debtKindId": 3,
+              "payOrder": 2,
+              "budgetYear": 2024,
+              "instNumber": 1,
+              "debtKindName": "Данък МПС",
+              "description": "Данък за МПС с рег. номер СВ4785ХН",
+              "residual": 400.78,
+              "interest": 38.99,
+              "dueDate": "2024-12-31",
+              "amountDue": {
+                "totalAmount": 439.77,
+                "amount": 400.78,
+                "interest": 38.99,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2025,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10149,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "СВ4785ХН",
+              "debtKindId": 3,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък МПС",
+              "description": "Данък за МПС с рег. номер СВ4785ХН",
+              "residual": 217.78,
+              "interest": 23.99,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 241.77,
+                "amount": 217.78,
+                "interest": 23.99,
+                "currency": "BGN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partida": "BG01V5166692",
+      "dsName": "СТОЛИЧНА",
+      "description": "Данък за Куче с номер на микрочип BG01V5166692",
+      "dsCode": 1239,
+      "categories": [
+        {
+          "debtKindId": 7,
+          "debtKindName": "Данък Куче",
+          "totalAmount": {
+            "amount": 30.08,
+            "currency": "BGN"
+          }
+        }
+      ],
+      "debtsByYear": [
+        {
+          "budgetYear": 2024,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10138,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "BG01V5166692",
+              "debtKindId": 7,
+              "payOrder": 1,
+              "budgetYear": 2024,
+              "instNumber": 1,
+              "debtKindName": "Данък Куче",
+              "description": "Данък за Куче с номер на микрочип BG01V5166692",
+              "residual": 13.85,
+              "interest": 1.38,
+              "dueDate": "2024-12-31",
+              "amountDue": {
+                "totalAmount": 15.23,
+                "amount": 13.85,
+                "interest": 1.38,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2025,
+          "debtsByPayOrder": [
+            {
+              "debtId": 10133,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "BG01V5166692",
+              "debtKindId": 7,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък Куче",
+              "description": "Данък за Куче с номер на микрочип BG01V5166692",
+              "residual": 14.85,
+              "interest": 0,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 14.85,
+                "amount": 14.85,
+                "interest": 0,
+                "currency": "BGN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partida": "BG01V5166698",
+      "dsName": "СТОЛИЧНА",
+      "description": "Данък за Куче с номер на микрочип BG01V5166698",
+      "dsCode": 1239,
+      "categories": [
+        {
+          "debtKindId": 7,
+          "debtKindName": "Данък Куче",
+          "totalAmount": {
+            "amount": 76.55000000000001,
+            "currency": "BGN"
+          }
+        }
+      ],
+      "debtsByYear": [
+        {
+          "budgetYear": 2024,
+          "debtsByPayOrder": [
+            {
+              "debtId": 247513,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "BG01V5166698",
+              "debtKindId": 7,
+              "payOrder": 2,
+              "budgetYear": 2024,
+              "instNumber": 1,
+              "debtKindName": "Данък Куче",
+              "description": "Данък за Куче с номер на микрочип BG01V5166698",
+              "residual": 33.85,
+              "interest": 3.85,
+              "dueDate": "2024-12-31",
+              "amountDue": {
+                "totalAmount": 37.7,
+                "amount": 33.85,
+                "interest": 3.85,
+                "currency": "BGN"
+              }
+            }
+          ]
+        },
+        {
+          "budgetYear": 2025,
+          "debtsByPayOrder": [
+            {
+              "debtId": 247512,
+              "dsCode": 1239,
+              "dsName": "СТОЛИЧНА",
+              "dbtrIBAN": "BG21SOMB91308427577744",
+              "partida": "BG01V5166698",
+              "debtKindId": 7,
+              "payOrder": 1,
+              "budgetYear": 2025,
+              "instNumber": 1,
+              "debtKindName": "Данък Куче",
+              "description": "Данък за Куче с номер на микрочип BG01V5166698",
+              "residual": 38.85,
+              "interest": 0,
+              "dueDate": "2025-12-31",
+              "amountDue": {
+                "totalAmount": 38.85,
+                "amount": 38.85,
+                "interest": 0,
+                "currency": "BGN"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

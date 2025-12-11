@@ -1,0 +1,13 @@
+{
+  "name": "pay-debts",
+  "version": "1.0.0",
+  "description": "A mini TypeScript environment",
+  "main": "getDebts.ts",
+  "scripts": {
+    "run": "ts-node"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
